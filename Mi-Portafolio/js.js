@@ -24,17 +24,17 @@ function efectoHabilidades() {
 
         
         habilidades[0].classList.add("javascript");
-        habilidades[1].classList.add("HTMLCSS");
+        habilidades[1].classList.add("htmlcss");
         habilidades[2].classList.add("React");
         habilidades[3].classList.add("Python");
         habilidades[4].classList.add("Git-hub");
         habilidades[5].classList.add("Wordpress");
         habilidades[6].classList.add("Php-symfony");
         habilidades[7].classList.add("Comunicación");
-        habilidades[8].classList.add("Trabajo en Equipo");
+        habilidades[8].classList.add("Trabajo");
         habilidades[9].classList.add("Creatividad");
         habilidades[10].classList.add("Dedicación");
-        habilidades[11].classList.add("Proyect Management");
+        habilidades[11].classList.add("Proyect");
     }
 }
 

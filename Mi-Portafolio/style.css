@@ -288,6 +288,10 @@ transition: .3s;
     width: 0%;
     animation: 2s htmlcss forwards;
 }
+@keyframes htmlcss {
+    0%{width: 0%;}
+    100%{width: 75%;}
+}
 @keyframes React{
     0%{width: 0%;}
     100%{width: 50%;}
@@ -338,7 +342,7 @@ transition: .3s;
 }
 .skills .skill .Trabajo{
     width: 0%;
-    animation: 2s Trabajo en Equipo  forwards;
+    animation: 2s Trabajo  forwards;
   }
   @keyframes Trabajo {
       0%{width: 0%;}
